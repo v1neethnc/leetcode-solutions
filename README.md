@@ -5,7 +5,7 @@
 <br><br>
 
 ## List of Problems solved
------
+
 The following table contains the number of the problem, title of the problem with a link to it, a link to my solution, and the problem's difficulty.
 
 | # | Title | Solution | Difficulty |
@@ -148,3 +148,7 @@ The following table contains the number of the problem, title of the problem wit
 | 2006 | [Count Number of Pairs With Absolute Difference K](https://leetcode.com/problems/count-number-of-pairs-with-absolute-difference-k) | [Solution](codes/2006_count_number_of_pairs_with_absolute_difference_k.py) | Easy |
 | 2011 | [Final Value of Variable After Performing Operations](https://leetcode.com/problems/final-value-of-variable-after-performing-operations) | [Solution](codes/2011_final_value_of_variable_after_performing_operations.py) | Easy |
 | 2053 | [Kth Distinct String in an Array](https://leetcode.com/problems/kth-distinct-string-in-an-array) | [Solution](codes/2053_kth_distinct_string_in_an_array.py) | Easy |
+| 2079 | [Watering Plants](https://leetcode.com/problems/watering-plants) | [Solution](codes/2079_watering_plants.py) | Medium |
+| 2085 | [Count Common Words With One Occurrence](https://leetcode.com/problems/count-common-words-with-one-occurrence) | [Solution](codes/2085_count_common_words_with_one_occurrence.py) | Easy |
+| 2089 | [Find Target Indices After Sorting Array](https://leetcode.com/problems/find-target-indices-after-sorting-array) | [Solution](codes/2089_find_target_indices_after_sorting_array.py) | Easy |
+| 2108 | [Find First Palindromic String in the Array](https://leetcode.com/problems/find-first-palindromic-string-in-the-array) | [Solution](codes/2108_find_first_palindromic_string_in_the_array.py) | Easy |
