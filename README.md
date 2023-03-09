@@ -152,3 +152,8 @@ The following table contains the number of the problem, title of the problem wit
 | 2085 | [Count Common Words With One Occurrence](https://leetcode.com/problems/count-common-words-with-one-occurrence) | [Solution](codes/2085_count_common_words_with_one_occurrence.py) | Easy |
 | 2089 | [Find Target Indices After Sorting Array](https://leetcode.com/problems/find-target-indices-after-sorting-array) | [Solution](codes/2089_find_target_indices_after_sorting_array.py) | Easy |
 | 2108 | [Find First Palindromic String in the Array](https://leetcode.com/problems/find-first-palindromic-string-in-the-array) | [Solution](codes/2108_find_first_palindromic_string_in_the_array.py) | Easy |
+| 2114 | [Maximum Number of Words Found in Sentences](https://leetcode.com/problems/maximum-number-of-words-found-in-sentences) | [Solution](codes/2114_maximum_number_of_words_found_in_sentences.py) | Easy |
+| 2119 | [A Number After a Double Reversal](https://leetcode.com/problems/a-number-after-a-double-reversal) | [Solution](codes/2119_a_number_after_a_double_reversal.py) | Easy |
+| 2124 | [Check if All A's Appears Before All B's](https://leetcode.com/problems/check-if-all-as-appears-before-all-bs) | [Solution](codes/2124_check_if_all_as_appears_before_all_bs.py) | Easy |
+| 2149 | [Rearrange Array Elements by Sign](https://leetcode.com/problems/rearrange-array-elements-by-sign) | [Solution](codes/2149_rearrange_array_elements_by_sign.py) | Medium |
+| 2169 | [Count Operations to Obtain Zero](https://leetcode.com/problems/count-operations-to-obtain-zero) | [Solution](codes/2169_count_operations_to_obtain_zero.py) | Easy |
