@@ -161,3 +161,6 @@ The following table contains the number of the problem, title of the problem wit
 | 2220 | [Minimum Bit Flips to Convert Number](https://leetcode.com/problems/minimum-bit-flips-to-convert-number) | [Solution](codes/2220_minimum_bit_flips_to_convert_number.py) | Easy |
 | 2221 | [Find Triangular Sum of an Array](https://leetcode.com/problems/find-triangular-sum-of-an-array) | [Solution](codes/2221_find_triangular_sum_of_an_array.py) | Medium |
 | 2235 | [Add Two Integers](https://leetcode.com/problems/add-two-integers) | [Solution](codes/2235_add_two_integers.py) | Easy |
+| 2283 | [Check if Number Has Equal Digit Count and Digit Value](https://leetcode.com/problems/check-if-number-has-equal-digit-count-and-digit-value) | [Solution](codes/2283_check_if_number_has_equal_digit_count_and_digit_value.py) | Easy |
+| 2325 | [Decode the Message](https://leetcode.com/problems/decode-the-message) | [Solution](codes/2325_decode_the_message.py) | Easy |
+| 2351 | [First Letter to Appear Twice](https://leetcode.com/problems/first-letter-to-appear-twice) | [Solution](codes/2351_first_letter_to_appear_twice.py) | Easy |
