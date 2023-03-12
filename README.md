@@ -157,3 +157,7 @@ The following table contains the number of the problem, title of the problem wit
 | 2124 | [Check if All A's Appears Before All B's](https://leetcode.com/problems/check-if-all-as-appears-before-all-bs) | [Solution](codes/2124_check_if_all_as_appears_before_all_bs.py) | Easy |
 | 2149 | [Rearrange Array Elements by Sign](https://leetcode.com/problems/rearrange-array-elements-by-sign) | [Solution](codes/2149_rearrange_array_elements_by_sign.py) | Medium |
 | 2169 | [Count Operations to Obtain Zero](https://leetcode.com/problems/count-operations-to-obtain-zero) | [Solution](codes/2169_count_operations_to_obtain_zero.py) | Easy |
+| 2194 | [Cells in a Range on an Excel Sheet](https://leetcode.com/problems/cells-in-a-range-on-an-excel-sheet) | [Solution](codes/2194_cells_in_a_range_on_an_excel_sheet.py) | Easy |
+| 2220 | [Minimum Bit Flips to Convert Number](https://leetcode.com/problems/minimum-bit-flips-to-convert-number) | [Solution](codes/2220_minimum_bit_flips_to_convert_number.py) | Easy |
+| 2221 | [Find Triangular Sum of an Array](https://leetcode.com/problems/find-triangular-sum-of-an-array) | [Solution](codes/2221_find_triangular_sum_of_an_array.py) | Medium |
+| 2235 | [Add Two Integers](https://leetcode.com/problems/add-two-integers) | [Solution](codes/2235_add_two_integers.py) | Easy |
