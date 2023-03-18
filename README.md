@@ -1,4 +1,3 @@
-
 # leetcode-solutions
 
 [LeetCode](leetcode.org) is perhaps the most popular online platform for coding related questions for practice. My solutions are written in Python3, the complete list of problems solved is given below. Almost all the solutions are written in Python, except for database related questions, which are written in MySQL. Some solutions may be revised over time as I will be revisiting some questions eventually, and might be updated if I find better ways of solving them.
